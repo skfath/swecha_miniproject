@@ -1,0 +1,36 @@
+.container{
+    width: 500px;
+    padding: 40px;
+    margin-left: 30%;
+   text-align: center;
+   background-color: rgb(79, 210, 210);
+   color: white;
+   font-size: 20px;
+   font-family: 'Mulish', sans-serif;
+   margin-top: 3%;
+  background-color: rgb(12, 72, 72);
+
+}
+body{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    color: rgb(30, 5, 53);
+    background-color: rgb(233, 177, 177);
+    font-size: 30px;
+    margin-top: 6%;
+}
+img{
+    width: 20%;
+}
+button{
+    width: 130px;
+    height: 38px;
+    border: none;
+    font-size: 24px;
+    padding: 5px;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(48, 9, 9);
+    color: rgb(149, 194, 46);
+    border-radius: 4px;
+}
